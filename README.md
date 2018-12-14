@@ -21,7 +21,7 @@ This is an Application aimed at managing Employee databases in a company.
 
    5. Training details as well as employee dashboard.
    
-   To checck the source codes visit the link <a href="https://github.com/abhishek-abhi/Employee_Database_Management/tree/developer"><i>Click on this</i></a>
+   To check the source codes visit the link <a href="https://github.com/abhishek-abhi/Employee_Database_Management/tree/developer"><i>Click on this</i></a>
    
    
 <hr><strong>Technologies and Tools used :</strong>
